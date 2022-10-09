@@ -1,4 +1,4 @@
-[![MasterHead](https://img.freepik.com/free-vector/teenager-boy-bedroom-interior-computers-desk_107791-2738.jpg?w=1380&t=st=1665287533~exp=1665288133~hmac=34003e33f80e559fe7205b4e789b581281252ab8d6d6ce9c5cb45e2fc12684d9)]
+![MasterHead](https://img.freepik.com/free-vector/teenager-boy-bedroom-interior-computers-desk_107791-2738.jpg?w=1380&t=st=1665287533~exp=1665288133~hmac=34003e33f80e559fe7205b4e789b581281252ab8d6d6ce9c5cb45e2fc12684d9)
 <h1 align="center">Hi 👋, I'm Mohammed Arshad</h1>
 <h3 align="center">I specialize in front-end web development and have experience with a variety of programming languages and frameworks, including HTML, CSS, JavaScript, and ReactJS. I'm a quick learner and have a knack for problem-solving, which makes me a great asset on any development team. I'm also a great communicator and work well with others, which is essential for any successful web development project.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif">
