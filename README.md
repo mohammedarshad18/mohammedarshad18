@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/arshx18" target="blank"><img src="https://img.shields.io/twitter/follow/arshx18?logo=twitter&style=for-the-badge" alt="arshx18" /></a> </p>
 
-- 🌱 I’m currently learning **React Native, Backend development**
+- 🌱 I’m currently learning ***React Native, Backend development***
 
 - 💬 Ask me about **HTML, CSS, JS, ReactJS, Bootstrap**
 
